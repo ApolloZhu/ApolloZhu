@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ApolloZhu/ApolloZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Has trouble schelduing equally important tasks, throttles, and falls back to doing neither urgent nor important tasks.
