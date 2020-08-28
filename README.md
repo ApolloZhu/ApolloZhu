@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Has trouble schelduing equally important tasks, throttles, and falls back to doing neither urgent nor important tasks.
-- Seldomly plays [Minecraft: Education Edition](https://education.minecraft.net/) to code in TS/Python, and understand the mechanics of this sandbox.
+
+- 🐱 Nocturnal
+- 🙁 Has trouble schelduing equally important tasks, throttles, and falls back to doing neither urgent nor important tasks.
+- 🧩 Doesn't really play games, except sometimes coding TS/Python through [Minecraft: Education Edition](https://education.minecraft.net/)
