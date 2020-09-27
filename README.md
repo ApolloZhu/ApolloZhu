@@ -13,10 +13,9 @@ Here are some ideas to get you started:
   <summary>TODO List</summary>
   
   - 贡献代码/文档给 Swift 社区
-    - [x] `#if canImport(Swift.submodule)`
+    - [x] [`#if canImport(some.submodule)`](https://github.com/apple/swift/pull/34094)
     - [ ] Swift educational notes
   - 申请实习
-    - [x] 更新简历
     - [ ] 刷 LeetCode？
   - 更新咕咕咕的项目
     - [ ] [翻译/校对 CS193p](https://github.com/Apollonyan/CS193p-Developing-Apps-for-iOS-Spring-2020)
