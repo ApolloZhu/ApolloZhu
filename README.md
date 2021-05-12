@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 <!-- 😄 Pronouns: he/they/... -->
 - 🌓 Has relatively stable day/light cycle <!-- 🐱 Is nocturnal -->
 - 🎯 Working towards todo list/inbox zero <!-- 🙁 Has trouble schelduing equally important tasks, throttles, and falls back to doing neither urgent nor important tasks. -->
-- 🧩 Coding TS/Python/ in [Minecraft: Education Edition](https://education.minecraft.net/)
-- 📓 School [task list](https://students.washington.edu/zhuzhiyu/) and time spent on homework:
+- 🧩 Coding in [Minecraft: Education Edition](https://education.minecraft.net/)
+- 📓 Time spent on [school work](https://students.washington.edu/zhuzhiyu/):
 
 ---
 
