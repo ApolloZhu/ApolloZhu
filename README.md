@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🧩 Doesn't really play games, except sometimes coding TS/Python in [Minecraft: Education Edition](https://education.minecraft.net/)
 - 📓 What is Apollo (as a student) doing this week? Check out my [task list](https://students.washington.edu/zhuzhiyu/) and time spent on homework:
 
-[![Apollo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Apollonian)](https://github.com/anuraghazra/github-readme-stats)
+[![Apollo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Apollonian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
