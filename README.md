@@ -3,11 +3,11 @@
 </a>
 
 
-<!-- 😄 Pronouns: they/he/... (any pronoun) -->
+<!-- 😄 Pronouns: they/any -->
 - 🌓 Has relatively stable day/light cycle <!-- 🐱 Is nocturnal -->
 - 🎯 Working towards todo list/inbox zero <!-- 🙁 Has trouble schelduing equally important tasks, throttles, and falls back to doing neither urgent nor important tasks. -->
-- 🧩 Coding in [Minecraft: Education Edition](https://education.minecraft.net/)
-- 📓 Time spent on [school work](https://students.washington.edu/zhuzhiyu/):
+- 📓 Time spent on school work:
+<!-- 🧩 Coding in [Minecraft: Education Edition](https://education.minecraft.net/) -->
 
 ---
 
@@ -20,9 +20,8 @@
   
   
   - 贡献代码/文档给 Swift 社区
-    - [x] [`#if canImport(some.submodule)`](https://github.com/apple/swift/pull/34094)
-       - [ ] IDE auto complete support
     - [ ] Swift educational notes
+    - [ ] KDE Connect iOS mentoring and maintanance
   - 更新咕咕咕的项目
     - [ ] [翻译/校对 CS193p](https://github.com/Apollonyan/CS193p-Developing-Apps-for-iOS-Spring-2020)
     - [ ] 发布 Dynamic Dark Mode 更新
