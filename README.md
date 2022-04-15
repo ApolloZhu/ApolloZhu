@@ -7,8 +7,8 @@
 - 🌓 Has relatively stable day/light cycle <!-- 🐱 Is nocturnal -->
 - 🎯 Working towards todo list/inbox zero <!-- 🙁 Has trouble schelduing equally important tasks, throttles, and falls back to doing neither urgent nor important tasks. -->
 - 🚩 Mentoring for [KDE Connect iOS](https://invent.kde.org/network/kdeconnect-ios) project
-- 💼 Fiding Summer 2022 internship ([LinkedIn](https://www.linkedin.com/in/apollozhu/))
 - 📓 Time spent on school work:
+<!-- 💼 Found Summer 2022 internship ([LinkedIn](https://www.linkedin.com/in/apollozhu/)) -->
 <!-- 🧩 Coding in [Minecraft: Education Edition](https://education.minecraft.net/) -->
 
 ---
